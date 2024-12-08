@@ -49,7 +49,7 @@ import matplotlib.pyplot as plt
 plt.figure(figsize=(8,6))
 plot_tree(dt,feature_names=x.columns,class_names=['salary','left'],filled=True)
 plt.show()
-
+```
 ## Output:
 ![exp 9(1)](https://github.com/user-attachments/assets/02758ca7-b398-4ffc-98e1-f31d80884794)
 ![exp 9(2)](https://github.com/user-attachments/assets/4c27b78a-3395-40d3-9ec7-b2e9c4de9f8d)
